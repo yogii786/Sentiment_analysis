@@ -1,2 +1,2 @@
-# Movies-Reviews-Sentiment-Analysis
-Movie Reviews Sentiment Analysis
+# Restaurants-Reviews-Sentiment-Analysis
+Restaurants Reviews Sentiment Analysis
